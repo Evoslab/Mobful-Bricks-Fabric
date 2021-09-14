@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "mobfulbricks:polar_bear_brick_slab"
+    ]
+  },
+  "criteria": {
+    "has_mobfulbricks:polar_bear_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mobfulbricks:polar_bear_bricks"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mobfulbricks:polar_bear_brick_slab"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_mobfulbricks:polar_bear_bricks",
+      "has_the_recipe"
+    ]
+  ]
+}

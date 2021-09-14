@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mobfulbricks:panda_bricks"
+    }
+  },
+  "result": {
+    "item": "mobfulbricks:panda_brick_stairs",
+    "count": 4
+  }
+}

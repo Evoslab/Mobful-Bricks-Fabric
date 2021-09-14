@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mobfulbricks:strider_bricks"
+    }
+  },
+  "result": {
+    "item": "mobfulbricks:strider_brick_slab",
+    "count": 6
+  }
+}

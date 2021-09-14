@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+        "bottom": "mobfulbricks:block/steve_bricks",
+        "top": "mobfulbricks:block/steve_bricks",
+        "side": "mobfulbricks:block/steve_bricks"
+    }
+}

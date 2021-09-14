@@ -1,0 +1,7 @@
+{
+  "parent": "mobfulbricks:block/template_bricks",
+  "textures": {
+    "pattern": "mobfulbricks:block/bee_bricks",
+    "face": "mobfulbricks:block/bee_face_bricks"
+  }
+}

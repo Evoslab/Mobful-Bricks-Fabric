@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mobfulbricks:blaze_bricks"
+  },
+  "result": "mobfulbricks:blaze_brick_slab",
+  "count": 2
+}

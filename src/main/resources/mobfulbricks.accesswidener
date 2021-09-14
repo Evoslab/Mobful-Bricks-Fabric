@@ -1,0 +1,5 @@
+accessWidener   v1  named
+
+accessible  method  net/minecraft/data/client/model/TexturedModel   makeFactory (Ljava/util/function/Function;Lnet/minecraft/data/client/model/Model;)Lnet/minecraft/data/client/model/TexturedModel$Factory;
+accessible  method  net/minecraft/data/client/model/Models  block   (Ljava/lang/String;[Lnet/minecraft/data/client/model/TextureKey;)Lnet/minecraft/data/client/model/Model;
+accessible  method  net/minecraft/data/client/model/TextureKey  of  (Ljava/lang/String;)Lnet/minecraft/data/client/model/TextureKey;

@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "mobfulbricks:steve_brick_wall"
+    ]
+  },
+  "criteria": {
+    "has_mobfulbricks:steve_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mobfulbricks:steve_bricks"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mobfulbricks:steve_brick_wall"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_mobfulbricks:steve_bricks",
+      "has_the_recipe"
+    ]
+  ]
+}

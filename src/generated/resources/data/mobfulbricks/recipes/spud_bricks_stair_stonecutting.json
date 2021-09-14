@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mobfulbricks:spud_bricks"
+  },
+  "result": "mobfulbricks:spud_brick_stairs",
+  "count": 1
+}

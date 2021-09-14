@@ -1,0 +1,7 @@
+{
+  "parent": "mobfulbricks:block/template_bricks",
+  "textures": {
+    "pattern": "mobfulbricks:block/strider_bricks",
+    "face": "mobfulbricks:block/strider_face_bricks"
+  }
+}

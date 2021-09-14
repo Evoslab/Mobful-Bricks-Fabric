@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "mobfulbricks:bee_brick_slab",
+    "mobfulbricks:panda_brick_slab",
+    "mobfulbricks:polar_bear_brick_slab",
+    "mobfulbricks:blaze_brick_slab",
+    "mobfulbricks:strider_brick_slab",
+    "mobfulbricks:hoglin_brick_slab",
+    "mobfulbricks:steve_brick_slab",
+    "mobfulbricks:carmen_brick_slab",
+    "mobfulbricks:steven_brick_slab",
+    "mobfulbricks:spud_brick_slab"
+  ]
+}

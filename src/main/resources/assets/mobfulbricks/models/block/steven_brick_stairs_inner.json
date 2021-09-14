@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+        "bottom": "mobfulbricks:block/steven_bricks",
+        "top": "mobfulbricks:block/steven_bricks",
+        "side": "mobfulbricks:block/steven_bricks"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mobfulbricks:strider_bricks"
+  },
+  "result": "mobfulbricks:strider_brick_slab",
+  "count": 2
+}

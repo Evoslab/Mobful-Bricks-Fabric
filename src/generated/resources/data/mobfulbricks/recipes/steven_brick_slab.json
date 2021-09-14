@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mobfulbricks:steven_bricks"
+    }
+  },
+  "result": {
+    "item": "mobfulbricks:steven_brick_slab",
+    "count": 6
+  }
+}

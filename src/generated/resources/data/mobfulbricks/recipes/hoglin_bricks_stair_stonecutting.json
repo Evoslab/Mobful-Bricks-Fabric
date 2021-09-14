@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mobfulbricks:hoglin_bricks"
+  },
+  "result": "mobfulbricks:hoglin_brick_stairs",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mobfulbricks:carmen_bricks"
+  },
+  "result": "mobfulbricks:carmen_brick_slab",
+  "count": 2
+}

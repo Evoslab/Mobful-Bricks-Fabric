@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mobfulbricks:polar_bear_bricks"
+    }
+  },
+  "result": {
+    "item": "mobfulbricks:polar_bear_brick_slab",
+    "count": 6
+  }
+}

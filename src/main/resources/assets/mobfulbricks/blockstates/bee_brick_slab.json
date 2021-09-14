@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mobfulbricks:block/bee_brick_slab"
+    },
+    "type=double": {
+      "model": "mobfulbricks:block/bee_bricks"
+    },
+    "type=top": {
+      "model": "mobfulbricks:block/bee_brick_slab_top"
+    }
+  }
+}

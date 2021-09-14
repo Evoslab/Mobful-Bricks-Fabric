@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mobfulbricks:block/blaze_brick_slab"
+    },
+    "type=double": {
+      "model": "mobfulbricks:block/blaze_bricks"
+    },
+    "type=top": {
+      "model": "mobfulbricks:block/blaze_brick_slab_top"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mobfulbricks:hoglin_bricks"
+    }
+  },
+  "result": {
+    "item": "mobfulbricks:hoglin_brick_wall",
+    "count": 6
+  }
+}

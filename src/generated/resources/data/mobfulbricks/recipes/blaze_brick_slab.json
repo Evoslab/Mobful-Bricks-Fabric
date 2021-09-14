@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mobfulbricks:blaze_bricks"
+    }
+  },
+  "result": {
+    "item": "mobfulbricks:blaze_brick_slab",
+    "count": 6
+  }
+}

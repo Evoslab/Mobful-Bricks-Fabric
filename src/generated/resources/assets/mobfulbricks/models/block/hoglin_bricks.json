@@ -1,0 +1,7 @@
+{
+  "parent": "mobfulbricks:block/template_bricks",
+  "textures": {
+    "pattern": "mobfulbricks:block/hoglin_bricks",
+    "face": "mobfulbricks:block/hoglin_face_bricks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mobfulbricks:polar_bear_bricks"
+  },
+  "result": "mobfulbricks:polar_bear_brick_wall",
+  "count": 1
+}

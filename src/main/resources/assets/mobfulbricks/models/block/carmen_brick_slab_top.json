@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "mobfulbricks:block/carmen_bricks",
+    "top": "mobfulbricks:block/carmen_bricks",
+    "side": "mobfulbricks:block/carmen_bricks"
+  }
+}
